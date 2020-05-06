@@ -8,6 +8,6 @@
     <string name="multi_image_picker_processing_images_message">Dies kann einen Moment dauern</string>
     <string name="discard">Abbrechen</string>
     <string name="done">OK</string>
-    <string name="max_count_photos_title">Maximal %d Fotos</string>
-    <string name="max_count_photos_message">Du kannst nur %d Fotos gleichzeitig auswählen.</string>
+    <string name="max_count_photos_title">Maximal %d Bilder</string>
+    <string name="max_count_photos_message">Du kannst nur %d Bilder gleichzeitig auswählen.</string>
 </resources>
