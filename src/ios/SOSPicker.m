@@ -101,7 +101,7 @@ typedef enum : NSUInteger {
         UIPopoverPresentationController *popPC = picker.popoverPresentationController;
         popPC.permittedArrowDirections = UIPopoverArrowDirectionAny;
         popPC.sourceView = picker.view;
-        //popPC.sourceRect = nil;
+        popPC.sourceRect = CGRectMake(0, 0, 0, 0);
     }
 
     [self.viewController showViewController:picker sender:nil];
